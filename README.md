@@ -3,7 +3,7 @@
 Materials developed for the BISA x Deloitte workshop on 1st May 2019 at The University of Sydney.
 
 ### Instructions:
-1. Please click the "Clone or download" button on the above right, then click "Download".
+1. Please click the "Clone or download" green button on the above right, then click "Download ZIP".
 2. Unzip the file.
 3. Go to https://sqliteonline.com/
 4. On the top left, click "File", "Open DB" then open the `Northwind_altered.sqlite` file.
