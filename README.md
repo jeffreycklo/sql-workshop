@@ -9,6 +9,7 @@ Materials developed for the BISA x Deloitte workshop on 1st May 2019 at The Univ
 4. On the top left, click "File", "Open DB" then open the `Northwind_altered.sqlite` file.
 
 The student version contains the ERD for the database and activities only.
+
 The full version contains all the slides, including activities and the solutions.
 
 
